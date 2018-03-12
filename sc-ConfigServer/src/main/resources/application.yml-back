@@ -1,0 +1,15 @@
+server:
+     port: 8888
+spring:
+     cloud: 
+         config: 
+           server: 
+              git:
+                  uri: 
+                     https://git.oschina.net/caicongyang/spingCloudConfigRepo.git
+                  searchPaths: 
+                     repo
+      application: 
+             name: 
+                  spingCloudConfServer
+                                  
