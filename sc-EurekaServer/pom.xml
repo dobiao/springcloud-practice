@@ -5,7 +5,7 @@
     <artifactId>springcloud-practice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>springCloudEurekaServer</artifactId>
+  <artifactId>sc-EurekaServer</artifactId>
   
   <dependencies>		
 		<dependency>
