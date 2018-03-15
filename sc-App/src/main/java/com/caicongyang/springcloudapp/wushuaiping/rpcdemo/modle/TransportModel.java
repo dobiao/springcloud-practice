@@ -3,7 +3,7 @@ package com.caicongyang.springcloudapp.wushuaiping.rpcdemo.modle;
 import java.io.Serializable;
 
 /**
- *  模型
+ *  数据传输模型
  * @author wushuaiping
  * @date 2018/3/15 下午12:25
  */

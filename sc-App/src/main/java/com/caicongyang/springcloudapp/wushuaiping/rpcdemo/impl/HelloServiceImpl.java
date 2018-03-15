@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * 
- * @author wb-yejiadong
+ * @author wushuaiping
  *
  */
 public class HelloServiceImpl implements Serializable, HelloService {
